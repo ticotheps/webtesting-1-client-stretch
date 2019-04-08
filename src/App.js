@@ -12,7 +12,7 @@ class App extends Component {
           <h1>Checkout this Cool List of Items!</h1>
         </header>
         <main>
-          <Route path="/items" component={Login}></Route>   
+          <Route path="/items" component={Items}></Route>   
         </main>
       </div>
     );
